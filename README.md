@@ -4,6 +4,7 @@ This repository contains a Convolutional Neural Network (CNN) model implemented 
 **Dataset**
 
 The model is trained on the popular Cat vs Dog dataset, which consists of thousands of images of cats and dogs. The dataset is divided into training and testing sets to evaluate the performance of the model.
+Dataset link : https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 
 **Model Architecture**
 
